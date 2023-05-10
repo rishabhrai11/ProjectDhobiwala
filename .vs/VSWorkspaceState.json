@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lms",
+    "\\lms\\user\\include",
+    "\\lms\\user\\vendor\\bootstrap",
+    "\\lms\\user\\vendor\\bootstrap\\js",
+    "\\lms\\user\\vendor\\chart.js",
+    "\\lms\\user\\vendor\\datatables",
+    "\\lms\\user\\vendor\\fontawesome-free",
+    "\\lms\\user\\vendor\\jquery",
+    "\\lms\\user\\vendor\\jquery-easing",
+    "\\SQL file"
+  ],
+  "SelectedNode": "\\lms\\user",
+  "PreviewInSolutionExplorer": false
+}

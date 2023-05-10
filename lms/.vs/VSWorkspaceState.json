@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "\\admin",
+    "\\admin\\include",
+    "\\admin\\js",
+    "\\vendor",
+    "\\vendor\\bootstrap",
+    "\\vendor\\bootstrap\\js",
+    "\\vendor\\datatables",
+    "\\vendor\\fontawesome-free",
+    "\\vendor\\fontawesome-free\\css"
+  ],
+  "PreviewInSolutionExplorer": false
+}
